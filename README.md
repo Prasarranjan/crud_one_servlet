@@ -13,3 +13,4 @@ JDBC (Java Database Connectivity): To interact with the MySQL database.
 HTML/CSS: For designing the frontend pages.
 MySQL: Backend database to store book information.
 Apache Tomcat: Servlet container to run the application.
+If you have any questions or feedback, feel free to reach out to me at therealprasar@gmail.com
